@@ -1,8 +1,10 @@
 # TTC-Project
 
-The "Toronto Bus Delay" datasets are being retreived from Kaggle. This provides comprehensive information on bus delays experienced in Toronto throughout 2022 and 2023. The data includes multiple fields, such as the duration of the delays, the bus routes involved, the specific locations of delays, the time and date of the incidents, and the reasons for the delays (e.g., mechanical issues, traffic congestion, weather conditions, or accidents). The dataset is valuable for transportation research and can help stakeholders analyze the efficiency of the Toronto Transit Commission (TTC) bus system. By identifying patterns in delay frequency, duration, or causes, the dataset can assist in predicting potential issues and improving the overall service quality. Data scientists and urban planners can use this information to propose solutions to reduce delays, optimize route management, or enhance passenger experience. The dataset also opens up opportunities for predictive modeling, anomaly detection, and trend analysis for public transit operations.
+The TTC (Toronto Transit Commission) Bus Delay 2022, 2023 datasets contain data on bus delays reported in Toronto throughout 2022 and 2023. The dataset includes various details like the duration of the delay, the routes affected, locations, reasons for the delays, and the recorded time of the incident. This dataset can be useful for analyzing transit performance, identifying patterns in delays, and exploring causes that might affect service quality.
 
-
+sources: 
+TTC Bus delay 2023: https://www.kaggle.com/datasets/karmansinghbains/ttc-delays-and-routes-2023
+TTC Bus delay 2022: https://www.kaggle.com/datasets/reihanenamdari/toronto-bus-delay-2022
 
 
 
