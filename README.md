@@ -6,6 +6,8 @@ The TTC (Toronto Transit Commission) Bus Delay 2022, 2023 datasets contain data 
 TTC Bus delay 2023: https://www.kaggle.com/datasets/karmansinghbains/ttc-delays-and-routes-2023
 <br>TTC Bus delay 2022: https://www.kaggle.com/datasets/reihanenamdari/toronto-bus-delay-2022
 
-
+Delay by Route:
+Delay by Location:
+Delay by Time:
 
 
