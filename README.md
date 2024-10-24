@@ -38,7 +38,7 @@ Steps followed to prepare the data fields.
 4. Since we are using the only the data belong to route 32 and route 36, we need to remove the data that belong to other routes and bad data(ie:'Null' route values). In order to remove these data we must add a filter to the route field. Drag the 'Route' field and drop it into 'Filter' box. Then we get the list of checkboxes for the routes. You need to select only the 32 and 36 routes from the list.<br>![rts](https://github.com/user-attachments/assets/16204d9a-5048-4822-8516-bd3cf5bcf02b)<br>
 5. Now we need to visualize the data by coloring the data according to the routes. We add the route field into colors to perform this.<br>![rt](https://github.com/user-attachments/assets/7b979a4a-bbec-4e96-87d4-838d64a7af96)<br>
 6.	Next, we need to perform the same steps to the dataset of the year 2023.
-9.	When we are processing the dataset for year 2023, drag the ‘Month’ field into ‘Filers box’ and then select ‘Month’. Then select only January to June from the checkbox. Because we have data from Jan to June for 2022.<br>
+7.	When we are processing the dataset for year 2023, drag the ‘Month’ field into ‘Filers box’ and then select ‘Month’. Then select only January to June from the checkbox. Because we have data from Jan to June for 2022.<br>
 ![x1](https://github.com/user-attachments/assets/b51bd0dc-0706-42db-bb2e-adf333d6a7cb)
 
 
@@ -76,6 +76,10 @@ Steps followed to prepare the data fields.
 4. Double click on the 'Time' field and write the code as "DATEPART('hour', [Time])" to extract only the hour part from the 'Time'.<br>
 5. Drag the 'Route' field into 'Filters' section to remove the records that has 'Null' values and routes other than 32 and 36.<br>
 ![image](https://github.com/user-attachments/assets/94ec539b-bcde-4074-bed0-72deec92e5b6) <br>
+6. Now we need to visualize the data by coloring the data according to the routes. We add the route field into colors to perform this.<br>![rt](https://github.com/user-attachments/assets/7b979a4a-bbec-4e96-87d4-838d64a7af96)<br>
+7. Now we need to perform the same steps to the dataset of the year 2023.<br>
+8. For the year 2023 dataset, drag the ‘Month’ field into ‘Filers box’ and then select ‘Month’. Then select only January to June from the checkbox. Because we have data from Jan to June for 2022.<br>
+![x1](https://github.com/user-attachments/assets/b51bd0dc-0706-42db-bb2e-adf333d6a7cb)
 
 
 
