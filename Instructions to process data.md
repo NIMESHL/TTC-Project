@@ -46,7 +46,8 @@ Steps followed to prepare the data fields.
  <!--- ************************************************   Criteria 2 ************************************************************************************************************ --->
  <hr width="100%" size="2">
 <strong><h2>Criteria 2: Number of delay incidents in each Route (column: Route, Row: count).</h2></strong><br>
-![delay vs route](https://github.com/user-attachments/assets/14aa871f-7ae5-4b81-9919-73137076137b)<br>
+![delay vs route](https://github.com/user-attachments/assets/6e3fa936-0779-49f8-8f81-167208d9310d)
+<br>
 
 <strong><ins>Data preparation:</ins></strong><br>
 Steps followed to prepare the data fields.
